@@ -20,6 +20,8 @@ You’ll learn how to:
 - Pivot to another forest using password writeback
 - Remote control workstations with the help of Intune
 
+![Overview of the attack path](images/attack_path.png)
+
 ## Authors
 
 - [Arnaud PETITCOL](https://www.linkedin.com/in/arnaud-petitcol)
